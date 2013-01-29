@@ -6,3 +6,6 @@ Capstone Project
 
 -----ON SOURCES-----
   As of 1/28/13 the repo contains a text file named "Sources.txt".  This is a running list of sources that I have used thus far in my project.  This file is NOT intended to indicate any formal declaration of sources.  Such a formal declaration will not occur until an actualy product is realeased (alpha or pre alpha).  Until then this list exists only to assist me in keeping track of sources I've looked at.
+
+-----ON CONTRACT-----
+  As of 1/28/13 the repo includes a copy of the contract (readable in libreoffice) for the project.  This copy is NOT intended to be official in any way shape or form, signatures have been removed to indicate this.  This copy is will be used to monitor progress.
