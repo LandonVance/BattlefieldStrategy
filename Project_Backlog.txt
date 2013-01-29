@@ -1,0 +1,12 @@
+-----PROJECT BACKLOG-----
+
+1. Gain a basic understanding of the GameMaker syntax and interface.
+2. Collect/design all necessary sprites.
+3. Produce a room complete with terrain and sprites
+4. Get units moving accross terrain
+5. Add unit attributes (movement, armor, health, etc...)
+6. Get unit attacking working.
+7. Get turns working.
+8. Get terrain influence working.
+9. Get positioning influence working.
+10. Add unit scaling.
