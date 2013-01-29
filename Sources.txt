@@ -1,0 +1,6 @@
+http://penny-arcade.com/patv/episode/episode-07-pacing  :About plot pacing
+https://store.unity3d.com/   :Unity gaem engine store
+http://www.tommytwisters.com/2012/02/so-you-want-to-make-games-engine/   :Game engine and other design stuff
+http://gamedev.stackexchange.com/questions/22262/should-i-use-game-engines-to-learn-to-make-3d-games   :questions about engines
+http://pousse.rapiere.free.fr/tome/  :sprites
+http://www.gmlscripts.com/gm8help/help/index.html  :GML documentation
