@@ -11,4 +11,4 @@ Capstone Project
   As of 1/28/13 the repo includes a copy of the contract (readable in libreoffice) for the project.  This copy is NOT intended to be official in any way shape or form, signatures have been removed to indicate this.  This copy is will be used to monitor progress.
 
 -----ON CLASS DIAGRAM-----
-  As of 1/30/13 the repo contains a class diagram file "UML-Class.class.voilet" viewable in voilet UML maker.  This diagram is a work in progress.  It's also worth noting that inheritance in GameMaker seems like it may very well function differently than inheritance in Java and C++, so further changes may be necessary down the line (as I become more acquainted with the game engine's functionality.
+  As of 1/30/13 the repo contains a class diagram file "UML-Class.class.voilet" viewable in voilet UML maker.  This diagram is a work in progress.  It's also worth noting that inheritance in GameMaker seems like it may very well function differently than inheritance in Java and C++, so further changes may be necessary down the line (as I become more acquainted with the game engine's functionality).
