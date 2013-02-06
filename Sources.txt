@@ -4,3 +4,4 @@ http://www.tommytwisters.com/2012/02/so-you-want-to-make-games-engine/   :Game e
 http://gamedev.stackexchange.com/questions/22262/should-i-use-game-engines-to-learn-to-make-3d-games   :questions about engines
 http://pousse.rapiere.free.fr/tome/  :sprites
 http://www.gmlscripts.com/gm8help/help/index.html  :GML documentation
+http://spritedatabase.net/file/14015  :Cavalry Sprite
